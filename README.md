@@ -1,26 +1,26 @@
-# CS50 Finance
+# Stock Trading Web Application
 
 **Live Demo:** [Stock Portfolio Live](https://finance.cs50.net/)
 
 ## Introduction
-CS50 Finance is a web application built as part of Harvard University's CS50 course. It's a mock stock trading platform where users can "buy" and "sell" stocks in a simulated environment using real-time stock prices.
+This Stock Trading Web Application is a personal project developed using the foundational tools and concepts provided by Harvard University's CS50 course. It's designed as a mock stock trading platform, allowing users to simulate buying and selling stocks using real-time market data.
 
 ## Features
-- **User Registration**: Sign up and log into the application.
-- **Buying and Selling Stocks**: Use a virtual currency to trade stocks.
-- **Real-Time Stock Prices**: Stock prices are updated in real-time.
-- **Portfolio Management**: View current holdings and transaction history.
+- **User Registration**: Secure sign-up and login functionality.
+- **Stock Transactions**: Simulate stock trading with a virtual currency.
+- **Live Market Data**: Incorporates real-time stock prices for an authentic experience.
+- **Portfolio Dashboard**: Users can track their holdings and view their transaction history.
 
 ## Technology Stack
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Python, Flask
-- **Database**: SQLite
+- **Frontend**: Developed with HTML, CSS, and JavaScript for a dynamic user interface.
+- **Backend**: Powered by Python and Flask, providing robust backend functionality.
+- **Database**: Utilizes SQLite for efficient data storage and retrieval.
 
 ## Deployment
-This application can be deployed on various platforms like Heroku, AWS, or on a local server. For detailed instructions, refer to the respective platform's documentation.
+This application is adaptable for deployment on various platforms, including cloud services like Heroku or AWS, as well as on local servers.
 
 ## Contributing
-Contributions to the project are welcome. Please fork the repository and submit a pull request for any enhancements.
+I welcome contributions and enhancements to this project. Feel free to fork the repository and submit pull requests with your proposed changes.
 
 ## License
-This project is licensed under the terms of the MIT license.
+This project is released under the MIT license, promoting open-source usage and collaboration.
